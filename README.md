@@ -1,4 +1,4 @@
-### Hey, how are you? I'm Fran   🤗 🌸 
+### Hey, how are you?  I'm Fran   🤗 🌸 
 
 - 🌱 A huge technology enthusiast;
 - 🇧🇷 Brazilian;
@@ -34,7 +34,7 @@
   
   ##
   
-   <h3>Contato:</h3>
+   <h3>Contact:</h3>
  
 <div> 
   <a href = "mailto:francianemenestrina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
