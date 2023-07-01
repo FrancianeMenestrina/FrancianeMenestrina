@@ -1,7 +1,8 @@
-### Olá, tudo bem? Eu sou a Fran   🤗 🌸
+### Hey, how are you? I'm Fran   🤗 🌸 
 
-- 🌱 Estudante de Desenvolvimento Web Full Stack na Trybe;
-- 👩‍💻 Buscando uma oportunidade para atuar na área de Front-End;
+- 🌱 A huge technology enthusiast;
+- 🇧🇷 Brazilian;
+- 👩‍💻 Junior Developer in Italy 🇮🇹;
 - 📫 francianemenestrina@gmail.com;
 
 ##
