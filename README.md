@@ -2,7 +2,7 @@
 
 - 🌱 A huge technology enthusiast;
 - 🇧🇷 Brazilian;
-- 👩‍💻 Junior Web Developer in Italy 🇮🇹;
+- 👩‍💻 Trainee Web Developer in Italy 🇮🇹;
 - 📫 francianemenestrina@gmail.com;
 
 ##
